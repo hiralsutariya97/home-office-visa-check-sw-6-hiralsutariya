@@ -1,0 +1,7 @@
+2023-12-19 16:12:286 INFO  StartPage :21 - Clicking on start button : [[ChromeDriver: chrome on windows (b3fc68e32cbc39acb8e144a100f441da)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-19 16:12:163 INFO  StartPage :21 - Clicking on start button : [[ChromeDriver: chrome on windows (05c38bc4a52b50292e74cf2fe7ef8f05)] -> css selector: .gem-c-button.govuk-button.govuk-button--start]
+2023-12-19 16:12:435 INFO  SelectNationalityPage :24 - select nationality : Australiafrom drop down menu[[ChromeDriver: chrome on windows (05c38bc4a52b50292e74cf2fe7ef8f05)] -> id: response]
+2023-12-19 16:12:452 INFO  SelectNationalityPage :29 - Clicking on continue button : [[ChromeDriver: chrome on windows (05c38bc4a52b50292e74cf2fe7ef8f05)] -> xpath: (//button[normalize-space()='Continue'])[1]]
+2023-12-19 16:12:655 INFO  ReasonForTravelPage :32 - Clicking on reason : [[ChromeDriver: chrome on windows (05c38bc4a52b50292e74cf2fe7ef8f05)] -> id: response-0]
+2023-12-19 16:12:930 INFO  ReasonForTravelPage :37 - Clicking on continue button : [[ChromeDriver: chrome on windows (05c38bc4a52b50292e74cf2fe7ef8f05)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 16:12:144 INFO  ResultPage :28 - Verifying the text : [[ChromeDriver: chrome on windows (05c38bc4a52b50292e74cf2fe7ef8f05)] -> xpath: //h2[normalize-space()='You will not need a visa to come to the UK']]
